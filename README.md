@@ -52,14 +52,6 @@ A feature-rich web application that helps users find nearby restaurants based on
     *   Responsive glassmorphism UI design.
 *   🔗 **[Live Demo](https://will1213.github.io/whatToEat/)**
 
-## � GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=will1213&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Will's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
-
 ---
 
 <div align="center">
