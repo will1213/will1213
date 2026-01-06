@@ -5,6 +5,7 @@ Software Engineer | Test Automation | CI/CD
 - 💼 Software Engineer at Siemens
 - 🔧 Focused on automation frameworks, CI pipelines, and system-level testing
 - 🧪 Squish, Python, Jenkins, C++, Git
+- 🌐 [My Portfolio](https://will1213.github.io/Portfolio/)
 
 ## 🛠️ Technologies & Tools
 
@@ -60,5 +61,8 @@ A feature-rich web application that helps users find nearby restaurants based on
   </a>
   <a href="https://linkedin.com/in/jenweiwillhuang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://will1213.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
